@@ -1,60 +1,24 @@
-# Python Programming Internship - Week 2 Task 2
+# Week 3 - Dictionaries & Data Organization
 
-## Overview
-This project is part of my Python Programming Internship (Week 2 - Task 2). It demonstrates the basics of Python programming, including syntax, variables, data types, arithmetic operations, user input, and output.
+## Programs Included
 
-## Objectives
-- Learn Python syntax and indentation.
-- Understand variables and data types.
-- Perform basic arithmetic operations.
-- Take user input and display formatted output.
-- Organize project files using a proper folder structure.
+1. Student Record Management
+2. Contact Book
+3. Inventory Management
 
-## Project Structure
-```
-Python-Programming-Week2/
-│── README.md
-│── .gitignore
-├── src/
-│   ├── hello_world.py
-│   └── user_input.py
-├── docs/
-│   └── syntax_notes.md
-└── screenshots/
-    ├── hello_world_output.png
-    └── user_input_output.png
-```
+## Concepts Covered
 
-## Files
-- **src/hello_world.py** – Demonstrates variables, data types, and arithmetic operations.
-- **src/user_input.py** – Accepts user input and prints a personalized message.
-- **docs/syntax_notes.md** – Notes about Python syntax, indentation, and data types.
+- Dictionary Creation
+- Adding Data
+- Updating Values
+- Searching Data
+- Looping through Dictionaries
+- Nested Dictionaries
 
-## Python Syntax Rules Learned
-- Python uses indentation instead of braces.
-- Variables do not require explicit declaration.
-- Common data types are String, Integer, Float, and Boolean.
-- The `input()` function is used to accept user input.
-- The `print()` function is used to display output.
+## Language
 
-## Requirements
-- Python 3.x
-- VS Code or any Python IDE
-
-## How to Run
-
-Run the following commands:
-
-```bash
-python src/hello_world.py
-```
-
-```bash
-python src/user_input.py
-```
-
-## Output
-The screenshots of the program execution are available in the **screenshots** folder.
+Python 3
 
 ## Author
-**Namrata Vishwakarma**
+
+Namrata Vishwakarma

@@ -1,0 +1,19 @@
+Student Records
+
+Roll No: 101
+Name: Rahul
+Age: 20
+Marks: 88
+
+Roll No: 102
+Name: Priya
+Age: 19
+Marks: 92
+
+Roll No: 103
+Name: Aman
+Age: 21
+Marks: 85
+
+Updated Record:
+{'Name': 'Rahul', 'Age': 20, 'Marks': 90}
