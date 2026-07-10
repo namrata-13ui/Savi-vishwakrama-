@@ -1,0 +1,3 @@
+Hello, this is my internship task.
+Python File Handling Example.
+Welcome to Python Programming Internship.

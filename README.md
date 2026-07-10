@@ -1,23 +1,22 @@
-# Week 3 - Dictionaries & Data Organization
+# Week 3 - Task 2
 
-## Programs Included
+## Error Handling & Debugging Basics
 
-1. Student Record Management
-2. Contact Book
-3. Inventory Management
+### Programs Included
 
-## Concepts Covered
+- Divide Numbers
+- File Handling
+- List Index Handling
 
-- Dictionary Creation
-- Adding Data
-- Updating Values
-- Searching Data
-- Looping through Dictionaries
-- Nested Dictionaries
+### Concepts Covered
 
-## Language
-
-Python 3
+- try
+- except
+- finally
+- ZeroDivisionError
+- ValueError
+- FileNotFoundError
+- IndexError
 
 ## Author
 
