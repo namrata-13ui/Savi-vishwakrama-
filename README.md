@@ -1,23 +1,22 @@
-# Week 3 - Task 2
+# Week 3 - Task 3
 
-## Error Handling & Debugging Basics
+## Introduction to Object-Oriented Programming (OOP) in Python
 
 ### Programs Included
-
-- Divide Numbers
-- File Handling
-- List Index Handling
+- Class and Object
+- Inheritance
+- Polymorphism
 
 ### Concepts Covered
+- Class
+- Object
+- Constructor (__init__)
+- Methods
+- Inheritance
+- Polymorphism
 
-- try
-- except
-- finally
-- ZeroDivisionError
-- ValueError
-- FileNotFoundError
-- IndexError
+### Language
+Python 3
 
-## Author
-
+### Author
 Namrata Vishwakarma
